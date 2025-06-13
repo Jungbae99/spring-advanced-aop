@@ -1,4 +1,4 @@
-package hello.aop.aop;
+package hello.aop;
 
 import hello.aop.order.OrderRepository;
 import hello.aop.order.OrderService;
